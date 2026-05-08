@@ -1,0 +1,25 @@
+
+=====================================
+STOCK MARKET ANALYSIS REPORT
+=====================================
+
+Ticker: AAPL
+
+Analysis Period:
+2024-01-01 to 2025-01-01
+
+Highest Price:
+258.69
+
+Lowest Price:
+162.60
+
+Volatility:
+0.0141
+
+Average Daily Return:
+0.0013
+
+=====================================
+Project completed successfully!
+=====================================
